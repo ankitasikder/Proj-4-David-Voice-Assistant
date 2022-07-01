@@ -14,3 +14,9 @@
        
 </div>
 
+Navigators
+    ├── AdminNavigator.js
+    ├── CheckoutNavigator.js
+    ├── HomeNavigator.js
+    ├── CastNavigator.js
+    └── userStackNavigator.js
